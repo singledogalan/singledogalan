@@ -1,2 +1,1 @@
-## Beginner of coding
-## コーディング初心者
+# Beginner of coding/コーディング初心者
